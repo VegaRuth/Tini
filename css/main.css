@@ -1,1 +1,98 @@
-/* Inserte su codigo aqui */
+/* General */
+a{
+	text-decoration: none;
+}
+/*HEADER*/
+h1{
+	color: white;
+	margin-top: 10%;
+}
+h4{
+	color: white;
+	margin-bottom: 20%;
+}
+header{
+	background-color:#E9AB0C;
+}
+/*BOTON*/
+.boton{
+	width: 40%;
+	height: 100%;
+	background-color:#E98A0C ;
+	margin: 35% 10% 2% 20%;
+	padding: 5%;
+}
+.boton>p{
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 4%;
+}
+.p-boton{
+	color: white;
+}
+/*MENU*/
+a > li{
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	margin-left: 2%;
+}
+nav{
+	margin: 5% 0% 0% 40%;
+}
+/*SECTION*/
+section{
+	background-color: #DDD9D0;
+	padding-top: 5%;
+}
+.sub-section-left{
+	background-color:white;
+	width:75%;
+	height: 100%;
+	padding: 5% 5% 2% 5%; 
+	margin: 5% 0% 5% 20%;
+}
+.sub-section-right{
+	background-color:white;
+	width:75%;
+	height: 100%;
+	padding: 5% 5% 2% 5%; 
+	margin: 5% 10% 5% 0%;
+}
+.img-section{
+	width: 50%;
+	height: 70%;
+	background-color: #D5D4D2;
+	font-color:#BDBCBC;
+	padding: 35% 10% 10% 10%;
+	margin-bottom: 5%;
+}
+.p-image{
+	color:#6A6863;
+	font-weight: bold;
+}
+.section-boton{
+	width: 40%;
+	height: 20%;
+	background-color:#E98A0C ;
+	padding: 5%;
+	margin-top: 2%;
+}
+h2{
+	color:#9D9B95;
+	margin-left: -3%;
+}
+.p-section{
+	color:#9E9C97 ;
+	padding-left: -2%;
+}
+/*FOOTER*/
+footer{
+	background-color: #282828;
+}
+.p-footer{
+	color: white;
+	margin: 2% 0% 3% 6%;
+	font-size: 11px;
+}
